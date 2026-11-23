@@ -1,0 +1,6 @@
+{
+  "name": "Cloud-Based Hospital Management System",
+  "description": "Microsoft Azure-compatible hospital administration dashboard for managing patients, doctors, and clinical appointments with Azure SQL Database and standalone Demo Mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
